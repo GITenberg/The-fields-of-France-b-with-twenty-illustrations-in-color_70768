@@ -5,12 +5,17 @@ contributor:
     agent_name: Macdougall, William Brown
     gutenberg_agent_id: '55916'
     url: http://www.gutenberg.org/2009/agents/55916
+covers:
+- cover_type: archival
+  image_path: 70768-h/images/cover.jpg
 creator:
   author:
     agent_name: Duclaux, Agnes Mary Frances (Robinson)
     gutenberg_agent_id: '55915'
     url: http://www.gutenberg.org/2009/agents/55915
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70768#The-fields-of-France-b-with-twenty-illustrations-in-color
 gutenberg_issued: '2023-05-15'
 identifiers:
   gutenberg: '70768'
